@@ -7,7 +7,7 @@
     
     <div class="filter-controls">
       <select v-model="selectedRarity" class="filter-select">
-        <option value="">Toutes les raretés</option>
+        <option value="">Toutes    les raretés</option>
         <option value="Common">Commune</option>
         <option value="Uncommon">Peu commune</option>
         <option value="Rare">Rare</option>
