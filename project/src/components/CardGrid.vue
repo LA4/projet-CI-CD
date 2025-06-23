@@ -2,7 +2,7 @@
   <div class="card-grid-container">
     <div class="grid-header">
       <h2 class="grid-title">Collection Magic: The Gathering</h2>
-      <p class="grid-subtitle">Décou vrez les cartes légendaires de Magic</p>
+      <p class="grid-subtitle">Découvrez les cartes légendaires de Magic</p>
     </div>
     
     <div class="filter-controls">
